@@ -2,7 +2,7 @@
 
 echo "activating environment"
 source /home/sid/miniconda3/bin/activate
-conda activate DL
+conda activate bi-kd
 
 export DETECTRON2_DATASETS=/home/sid/ade20k
 
